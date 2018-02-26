@@ -1,2 +1,2 @@
 # hello-cats
-Just another repository
+Just another repository. Signed, the cat.
